@@ -1,0 +1,25 @@
+AccountNumber: 1
+AccountType: Deposit
+AccountOwner:Ali
+AccountBalance: 800
+
+AccountNumber: 2
+AccountType: Deposit
+AccountOwner:Ebi
+AccountBalance: 245
+
+AccountNumber: 3
+AccountType: Deposit
+AccountOwner:Vahid
+AccountBalance: 1234
+
+AccountNumber: 4
+AccountType: D
+AccountOwner:Mahdi
+AccountBalance: 600
+
+AccountNumber: 5
+AccountType: D
+AccountOwner:Leila
+AccountBalance: 100
+
