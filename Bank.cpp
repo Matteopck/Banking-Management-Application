@@ -1,31 +1,4 @@
-/*
-Create a program that simulates a simple banking system. Your program should have the following features:
 
-Create a BankAccount class with the following attributes:
-
-Account number
-Account holder name
-Account type (e.g., savings, checking)
-Account balance
-Implement member functions in the BankAccount class to:
-
-Deposit money into the account
-Withdraw money from the account (ensure sufficient balance)
-Display the account details (account number, account holder name, account type, and account balance)
-Create a Bank class that manages multiple BankAccount objects. The Bank class should have the following features:
-
------Add a new account
-Remove an existing account
------Display account details for all accounts
-Search for an account by account number or account holder name
-Implement error handling to handle cases such as insufficient balance for withdrawals, invalid account numbers, etc.
-
-Create a menu-driven interface that allows the user to interact with the banking system by performing operations like adding a new account, 
-depositing money, withdrawing money, displaying account details, searching for an account, etc.
-
-This challenge will test your object-oriented programming skills, error handling abilities, and your understanding of class interactions. 
-Feel free to implement additional features or enhancements to make the banking system more robust and user-friendly.
-*/
 #include <iostream>
 #include <fstream>
 #include <sstream>
